@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: aqua;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+}
+
+main {
+    padding-top: 100px;
+    height: 5000px;
+}
+
+p{
+    height: 500px;
+}
+
+h2{
+    padding-top: 500px;
+    position: sticky;
+    top: 70px;
+    width: 100%;
+    margin: 0;
+    padding: 5px;
+    background-color: blue;
+}
+
+.migisita{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+.circle{
+    padding: 20px 10px;
+    background-color: red;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+footer{
+    height: 300px;
+    background-color: aquamarine;
+}
